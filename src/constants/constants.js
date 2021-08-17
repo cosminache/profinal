@@ -1,40 +1,40 @@
 export const projects = [
   {
-    title: "MERN Memories",
+    title: "Nimic inca",
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      "My money's in that office, right? If she start giving me some bullshit about it ain't there, and we got to go someplace else and get it",
     image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
+    tags: ["Tehnologii", "Tehnologii", "Tehnologii"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 0,
   },
   {
-    title: "E-Commerce",
+    title: "Nimic Inca",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      "Then I'm gonna shoot that bitch in the kneecaps, find out where my goddamn money is.",
     image: "/images/2.png",
-    tags: ["React", "JavaScript"],
+    tags: ["Tehnologii", "Tehnologii"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 1,
   },
   {
-    title: "WebRTC App",
+    title: "Nimic Inca",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      "She gonna tell me too. Hey, look at me when I'm talking to you, motherfucker.",
     image: "/images/3.jpg",
-    tags: ["React", "WebRTC"],
+    tags: ["Tehnologii", "Tehnologii"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 2,
   },
   {
-    title: "Unichat",
+    title: "Nimic Inca",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+      "You listen: we go in there, and that nigga Winston or anybody else is in there, you the first motherfucker to get shot. You understand?",
     image: "/images/4.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
+    tags: ["Tehnologii", "Tehnologii", "Tehnologii"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 3,
